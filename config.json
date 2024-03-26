@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
+    "100067564164329",
     ""
   ],
   "whiteListMode": {
@@ -25,10 +25,10 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
+  "OWNER": "YAMRAAJ GOATBOT",
   "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
+  "nickNameBot": "HELL GOATBOT",
   "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
   "prefix": "✓",
   "database": {
