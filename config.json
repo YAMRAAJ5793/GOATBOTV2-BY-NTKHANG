@@ -18,7 +18,7 @@
   },
   "adminBot": [
     "100067564164329",
-    ""
+    "100067564164329"
   ],
   "whiteListMode": {
     "enable": false,
@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "HELL GOATBOT",
   "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "prefix": "$",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
